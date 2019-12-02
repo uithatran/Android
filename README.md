@@ -1,2 +1,2 @@
 # Android
-Android example
+Android samples
