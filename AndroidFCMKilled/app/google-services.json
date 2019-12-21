@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337831070210",
+    "firebase_url": "https://androidfcmkilled-535de.firebaseio.com",
+    "project_id": "androidfcmkilled-535de",
+    "storage_bucket": "androidfcmkilled-535de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337831070210:android:221fa9d5a65e313d02b51b",
+        "android_client_info": {
+          "package_name": "com.example.androidfcmkilled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337831070210-j3l7socr4o5e5qci7ftb5ksv8m23rct8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidfcmkilled",
+            "certificate_hash": "88ee04cdfa1ef8fe244fa1e1df62c6883ff21f5e"
+          }
+        },
+        {
+          "client_id": "337831070210-r5ltdvnmbpan9a0tvon6d73eog8lhu17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQfu-tJU7dJu2Ih9dLPpV3FuFEDZR2XcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337831070210-r5ltdvnmbpan9a0tvon6d73eog8lhu17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
